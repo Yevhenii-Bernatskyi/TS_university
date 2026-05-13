@@ -1,0 +1,33 @@
+{
+  "categoryName": "Смартфони",
+  "items": [
+    {
+      "id": 1,
+      "name": "Samsung Galaxy A35",
+      "shortname": "Phone-1",
+      "description": "Смартфон для щоденного використання, фото, соцмереж та месенджерів.",
+      "price": 13900
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi Redmi Note 13",
+      "shortname": "Phone-2",
+      "description": "Доступний смартфон з великим екраном та хорошою автономністю.",
+      "price": 9900
+    },
+    {
+      "id": 3,
+      "name": "iPhone 13",
+      "shortname": "Phone-3",
+      "description": "Смартфон із якісною камерою, стабільною системою та зручним інтерфейсом.",
+      "price": 28900
+    },
+    {
+      "id": 4,
+      "name": "Motorola Edge 40",
+      "shortname": "Phone-4",
+      "description": "Смартфон з приємним дизайном, швидкою роботою та яскравим екраном.",
+      "price": 15900
+    }
+  ]
+}

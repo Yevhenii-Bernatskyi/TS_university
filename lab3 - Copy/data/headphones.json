@@ -1,0 +1,47 @@
+{
+  "categoryName": "Навушники",
+  "items": [
+    {
+      "id": 1,
+      "name": "Sony WH-CH520",
+      "shortname": "Audio-1",
+      "description": "Бездротові навушники для музики, дзвінків та навчання онлайн.",
+      "price": 2300
+    },
+    {
+      "id": 2,
+      "name": "JBL Tune 520BT",
+      "shortname": "Audio-2",
+      "description": "Зручні Bluetooth-навушники з якісним звучанням для щоденного використання.",
+      "price": 2100
+    },
+    {
+      "id": 3,
+      "name": "Apple AirPods 2",
+      "shortname": "Audio-3",
+      "description": "Компактні бездротові навушники для дзвінків, музики та відео.",
+      "price": 5200
+    },
+    {
+      "id": 4,
+      "name": "HyperX Cloud Stinger",
+      "shortname": "Audio-4",
+      "description": "Ігрова гарнітура з мікрофоном для онлайн-ігор та спілкування.",
+      "price": 1800
+    },
+    {
+      "id": 5,
+      "name": "Anker Soundcore Life Q30",
+      "shortname": "Audio-5",
+      "description": "Навушники з шумозаглушенням для роботи, дороги та відпочинку.",
+      "price": 3400
+    },
+    {
+      "id": 6,
+      "name": "Logitech H390",
+      "shortname": "Audio-6",
+      "description": "Провідна гарнітура для навчання, відеодзвінків та роботи.",
+      "price": 1300
+    }
+  ]
+}
